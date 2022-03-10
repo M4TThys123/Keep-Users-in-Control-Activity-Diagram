@@ -10,7 +10,7 @@ Als potenciële partner, wil ik een lijst met smartzones op de website zien, zod
 ![Controll Flow](https://github.com/M4TThys123/keep-users-in-control-activity-diagram/blob/main/assets/Activity%20Diagram.JPG)
 
 ## Uitleg pseudo-code 
-<!-- Leg de pseudo-code in de control fow uit -->
+<!-- Leg de pseudo-code in de control fow uit -->s
 
 
 ## Licentie
