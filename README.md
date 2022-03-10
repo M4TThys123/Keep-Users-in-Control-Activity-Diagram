@@ -1,13 +1,13 @@
-> _Fork_ deze leertaak en ga aan de slag. Onderstaande outline ga je gedurende deze taak in jouw eigen GitHub omgeving uitwerken. De instructie vind je in: [docs/INSTRUCTIONS.md](docs/INSTRUCTIONS.md)
+# 👀 Keep Users in Control 
+Activity Diagram voor Coding the Curbs
 
-# Titel
-<!-- Geef je project een titel en schrijf in één zin wat het is -->
+## 👶🏼 User Story
+Als potenciële partner, wil ik een lijst met smartzones op de website zien, zodat ik weet wat de functie zijn van smartzones.
 
-## User Story
-<!-- Schrijf hier de User Story waar de Activity Diagram over gaat-->
-
-## Activity Diagram
+## 👨🏼‍💻 Activity Diagram
 <!-- Toon de activity Diagram -->
+![Wireflow](https://github.com/M4TThys123/keep-users-in-control-activity-diagram/blob/main/assets/wirefow.JPG)
+![Controll Flow](https://github.com/M4TThys123/keep-users-in-control-activity-diagram/blob/main/assets/Activity%20Diagram.JPG)
 
 ## Uitleg pseudo-code 
 <!-- Leg de pseudo-code in de control fow uit -->
