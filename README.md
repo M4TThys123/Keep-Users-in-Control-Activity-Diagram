@@ -12,7 +12,7 @@ Als potenciële partner, wil ik een lijst met smartzones op de website zien, zod
 ![Controll Flow](https://github.com/M4TThys123/keep-users-in-control-activity-diagram/blob/main/assets/Activity%20Diagram.JPG)
 
 ## Digial Version
-![Final Version](https://github.com/M4TThys123/Keep-Users-in-Control-Activity-Diagram/blob/main/assets/Activity%20Diagram.png){ width=50% }
+![Final Version](https://github.com/M4TThys123/Keep-Users-in-Control-Activity-Diagram/blob/main/assets/Activity%20Diagram.png){ width=100% }
 
 
 ## 👨🏼‍💻 Uitleg pseudo-code 
