@@ -11,6 +11,10 @@ Als potenciële partner, wil ik een lijst met smartzones op de website zien, zod
 ### Controll Flow
 ![Controll Flow](https://github.com/M4TThys123/keep-users-in-control-activity-diagram/blob/main/assets/Activity%20Diagram.JPG)
 
+## Digial Version
+![Final Version](https://github.com/M4TThys123/Keep-Users-in-Control-Activity-Diagram/blob/main/assets/Activity%20Diagram.png)
+
+
 ## 👨🏼‍💻 Uitleg pseudo-code 
 Zodra de pagina wordt geladen komen we aan bij de **Empty state**. Tijdens deze state wordt getData uitgevoed, vervolgens verandert deze state naar loading. Dat zie je terug in mijn state.js/state(loading). 
 
